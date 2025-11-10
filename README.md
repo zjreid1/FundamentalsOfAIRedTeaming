@@ -2,6 +2,7 @@
 
 Covering AI Red Teaming 101 – Full Course from Microsoft
 
+- Course: https://www.youtube.com/watch?v=DwFVhFdD2fs
 - Associated Labs: https://github.com/microsoft/AI-Red-Teaming-Playground-Labs
 - PyRIT (Framework to ID AI risks): https://github.com/Azure/PyRIT
 
